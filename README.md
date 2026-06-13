@@ -13,21 +13,26 @@
 #### Task 1 - EDA on Retail Sales Data
 - Exploratory Data Analysis on retail sales dataset
 - Time series analysis, customer & product analysis
+- Dataset: retail_sales_dataset.csv
 - Tools: Python, Pandas, Matplotlib, Seaborn
 
 #### Task 2 - Customer Segmentation Analysis
 - Customer segmentation using K-Means Clustering
 - Identified 4 distinct customer segments
+- Dataset: iFood.csv
 - Tools: Python, Pandas, Scikit-learn, Seaborn
 
 #### Task 3 - Data Cleaning
 - Data cleaning on NYC Airbnb dataset
 - Handled missing values, duplicates & outliers
+- Dataset: AB_NYC_2019.csv
 - Tools: Python, Pandas, Matplotlib
 
 #### Task 4 - Sentiment Analysis
 - Twitter sentiment analysis using Naive Bayes
 - Classified tweets as Positive, Negative, Neutral
+- Accuracy: 74%
+- Dataset: Twitter_Data.csv
 - Tools: Python, Scikit-learn, TF-IDF
 
 ### Level 2
@@ -35,21 +40,26 @@
 #### Task 5 - House Price Prediction
 - Linear Regression model for house price prediction
 - Achieved R-squared score of 64.95%
+- Dataset: Housing.csv
 - Tools: Python, Scikit-learn, Matplotlib
 
 #### Task 6 - Wine Quality Prediction
 - Wine quality prediction using 3 classifier models
-- Random Forest achieved 69.43% accuracy
+- Random Forest: 69.43% | SVC: 63.76% | SGD: 59.39%
+- Dataset: WineQT.csv
 - Tools: Python, Scikit-learn, Seaborn
 
 #### Task 7 - Fraud Detection
 - Credit card fraud detection using ML models
-- Logistic Regression & Decision Tree - 99.91% accuracy
+- Logistic Regression & Decision Tree: 99.91% accuracy
+- Dataset: creditcard.csv (too large for GitHub - 144MB)
+- Download: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - Tools: Python, Scikit-learn, Matplotlib
 
 #### Task 8 - Google Play Store Analysis
 - Analyzed Google Play Store apps & user reviews
 - Category analysis, sentiment analysis & visualizations
+- Dataset: apps.csv, user_reviews.csv
 - Tools: Python, Pandas, Matplotlib, Seaborn
 
 #### Task 9 - Autocomplete & Autocorrect
